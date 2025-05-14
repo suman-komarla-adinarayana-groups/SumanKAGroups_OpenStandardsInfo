@@ -1,0 +1,2 @@
+# SumanKAGroups_OpenStandardsInfo
+Open Standards Information
